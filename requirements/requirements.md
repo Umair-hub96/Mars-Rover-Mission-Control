@@ -42,8 +42,8 @@ Only authenticated Mission Control operators shall be permitted to issue rover c
 ### NFR-03: Communication Reliability
 The system shall continue operating despite temporary communication interruptions.
 
-### NFR-04: Multiple Rover Support
-The system should support communication with multiple rovers simultaneously.
+### NFR-04
+The system shall support at least 20 simultaneously connected rovers.
 
 
 # 3. Change Requests
