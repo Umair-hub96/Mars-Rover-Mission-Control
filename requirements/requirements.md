@@ -36,8 +36,8 @@ Non-Functional Requirements describe the quality and constraints of the system.
 ### NFR-01: Performance
 Command processing should normally complete within 5 seconds after a command is received by the rover.
 
-### NFR-02: Authentication
-Only authenticated Mission Control operators shall be permitted to issue rover commands.
+### NFR-02
+The system shall require authenticated and role-authorized operators before accepting rover commands.
 
 ### NFR-03: Communication Reliability
 The system shall continue operating despite temporary communication interruptions.
